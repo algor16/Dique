@@ -4611,7 +4611,10 @@ select {
 .orbit-image {
   width: 100%;
   max-width: 100%;
-  margin: 0; }
+  margin: 0;
+  height: 88vh;
+  
+  object-fit: cover; }
 
 .orbit-caption {
   position: absolute;
