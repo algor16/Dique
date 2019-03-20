@@ -50,17 +50,17 @@ hr{
 
 }
 .img_esp{
-  max-width: 300px;
+  max-width: 280px;
 }
 .footer-image {
   width: 100%;
   max-width: 100%;
   margin: 0;
-  height: 28vh;
+  height: 27vh;
   
   object-fit: cover; }
 
-  @media screen and (max-width: 600px){
+  @media screen and (max-width: 620px){
 
     .img_esp{
       display: none;
