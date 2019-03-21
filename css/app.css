@@ -56,10 +56,33 @@ hr{
   width: 100%;
   max-width: 100%;
   margin: 0;
-  height: 27vh;
+  height: 28vh;
   
   object-fit: cover; }
 
+  .cliente-image {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  height: 50vh;
+  
+  object-fit: cover; }
+
+  section{
+    margin: 2em 0;
+  }
+  #quinto{
+    margin: 0;
+  }
+  #cuatro{
+    margin-bottom: 0;
+  }
+
+.contactodiv{
+  height: 30vh;
+  background-color: #111111;
+  opacity: 0.4;
+}
   @media screen and (max-width: 620px){
 
     .img_esp{
