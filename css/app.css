@@ -17,6 +17,15 @@ h4{
   color:#00AEC7; 
   margin: 0;
 }
+h6{
+ font-family: OpenSans;
+  color:#00AEC7; 
+  margin: 0;
+}
+p{
+  
+  color:#6a6a6a;
+}
 hr{
   margin: 0;
   border-color: #00AEC7;
