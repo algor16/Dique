@@ -22,7 +22,7 @@ h6{
   color:#00AEC7; 
   margin: 0;
 }
-p, li{
+p, li, table{
   
   color:#6a6a6a;
 }
@@ -30,6 +30,31 @@ hr{
   margin: 0;
   border-color: #00AEC7;
   max-width: 18rem;
+}
+thead th {
+   position: sticky;
+   position: -webkit-sticky;
+   top: 0;
+   background:#F5F5F5;
+   z-index: 10;
+   color:#6a6a6a;
+}
+.fijo{
+   position: sticky;
+   position: -webkit-sticky;
+   top: 0;
+   background:#F5F5F5;
+   z-index: 11;
+}
+.centrado {
+  text-align: center;
+}
+.proyecto {
+  text-align: justify;
+}
+.divtabla{
+  height: 80vh;
+  overflow: scroll;
 }
 .BarraP span {
 	font-family: OpenSans;
