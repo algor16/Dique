@@ -136,9 +136,10 @@ thead th {
 }
   @media screen and (max-width: 620px){
 
-    .img_esp{
+    .img_esp, .img-em{
       display: none;
     }
+
   }
   .divcontacto{
     position: relative;
