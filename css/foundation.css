@@ -5383,7 +5383,6 @@ a.thumbnail {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 0.5rem;
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap; }
