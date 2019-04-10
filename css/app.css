@@ -141,7 +141,7 @@ thead th {
 }
   @media screen and (max-width: 620px){
 
-    .img_esp, .img-em{
+    .img_esp, .img-em, #ubicacionG{
       display: none;
     }
 
