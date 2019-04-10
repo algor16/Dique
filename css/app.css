@@ -127,15 +127,15 @@ thead th {
   }
 
 .contactodiv{
-  height: 30vh;
-  background-color: #6b6b6b;
-  opacity: 0.4;
+  height: 38vh;
+  background-color: #808083;
+  
   text-align: center;
 }
 .finaldiv{
   height: 8vh;
-  background-color: #1e1e1e;
-  opacity: 0.4;
+  background-color: #6D6E71;
+  
   text-align: center;
   color:#f7f7f7;
 }
@@ -160,6 +160,9 @@ thead th {
   font-style: normal;
 }
 
+.Lcorreo{
+  color:#f7f7f7;
+}
 
 .redessociales{
   border:0;
