@@ -3690,9 +3690,9 @@ select {
     display: block;
     width: 100%;
     height: 2px;
-    background: #fefefe;
-    -webkit-box-shadow: 0 7px 0 #fefefe, 0 14px 0 #fefefe;
-            box-shadow: 0 7px 0 #fefefe, 0 14px 0 #fefefe;
+    background: #808083;
+    -webkit-box-shadow: 0 7px 0 #808083, 0 14px 0 #808083;
+            box-shadow: 0 7px 0 #808083, 0 14px 0 #808083;
     content: ''; }
   .menu-icon:hover::after {
     background: #cacaca;
