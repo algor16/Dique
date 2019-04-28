@@ -66,10 +66,17 @@ thead th {
 	background:#00AEC7;
 	font-size: inherit;
 	opacity: 0.4;
-	padding: 0.5em 1em;
+	padding: 0.5em 0.7em;
 	border-radius: 25px;
 }
 
+.p-accordion {
+  margin-left: 3rem;
+}
+.lnegocios{
+  height: 80vh;
+  overflow: scroll;
+}
 .divider {
 	  border-bottom: none;
     border-top: none;
@@ -127,7 +134,7 @@ thead th {
   }
 
 .contactodiv{
-  height: 38vh;
+  height: 45vh;
   background-color: #808083;
   
   text-align: center;

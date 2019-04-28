@@ -3014,9 +3014,10 @@ select {
   padding: 1.25rem 1rem;
   border: 1px solid #e6e6e6;
   border-bottom: 0;
-  font-size: 0.75rem;
+  font-size: 1.2em;
   line-height: 1;
-  color: #1779ba; }
+  color: #00AEC7;
+  font-family: OpenSans; }
   :last-child:not(.is-active) > .accordion-title {
     border-bottom: 1px solid #e6e6e6;
     border-radius: 0 0 0 0; }
@@ -3441,7 +3442,7 @@ select {
     line-height: 1;
     text-decoration: none;
     display: block;
-    padding: 0.7rem 2rem; }
+    padding: 0.7rem 1.6rem; }
   .menu input,
   .menu select,
   .menu a,
@@ -3648,7 +3649,8 @@ select {
           -ms-flex-pack: start;
               justify-content: flex-start; }
   .menu .menu-text {
-    padding: 0.7rem 1rem;
+    /**padding: 0.7rem 1rem;*/
+    padding: 0rem 1rem;
     font-weight: bold;
     line-height: 1;
     color: inherit; }
