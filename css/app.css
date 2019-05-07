@@ -111,7 +111,7 @@ thead th {
   width: 100%;
   max-width: 100%;
   margin: 0;
-  height: 32vh;
+  height: 25vh;
   
   object-fit: cover; }
 
@@ -119,7 +119,7 @@ thead th {
   width: 100%;
   max-width: 100%;
   margin: 0;
-  height: 65vh;
+  height: 76vh;
   
   object-fit: cover; }
 
@@ -134,7 +134,7 @@ thead th {
   }
 
 .contactodiv{
-  height: 45vh;
+  height: 46vh;
   background-color: #808083;
   
   text-align: center;
